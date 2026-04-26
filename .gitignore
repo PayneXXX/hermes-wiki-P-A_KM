@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+workspace.json
+
+# macOS
+.DS_Store
+._*
+
+# 浏览器下载缓存
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.pyc
